@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi I'm Raissa, a final year Industrial Engineering Student who has particular interest in Data Science.
+- 🐍 Currently, I still learning on Pytorch.
+- ✉️ Connect with me through LinkedIn for further discussion
 
 <!--
 **raissadhrmswr/raissadhrmswr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
